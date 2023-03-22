@@ -14,7 +14,7 @@ This website has been deployed to GitHub Pages- [link to website](https://phoebe
 Steps to publish website to GitHub Pages:
 1. On the main page of the repository, click Actions.
 2. Scroll to the Pages section.
-3. Click the "Configure" option in the Static HTML box. 
+3. Click the "Configure" option in the Static HTML box. This option makes a static website ONLY. Choose another option for a different type of site, if it needs more.
 4. Click the green "Start Commit" button on the right side of the page.
 5. Once the repository is published, a link to the website will be shown in the Pages section of Settings. 
 
