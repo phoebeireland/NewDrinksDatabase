@@ -2,9 +2,9 @@
 
 Just a Place to store new drinks that I've tried and enjoyed. Just so I can remember them.
 
-Site deployed through GitHub pages.
-[Link to deployed website](https://phoebeireland.github.io/NewDrinksDatabase/)
-[Link to github repository](https://github.com/phoebeireland/NewDrinksDatabase)
+## Site deployed through GitHub pages.
+* [Link to deployed website](https://phoebeireland.github.io/NewDrinksDatabase/)
+* [Link to github repository](https://github.com/phoebeireland/NewDrinksDatabase)
 
 # Deployment
 The Website was created in Visual Studio Code, version controlled with Git and hosted on Github. 
